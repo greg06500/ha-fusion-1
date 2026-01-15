@@ -10,7 +10,7 @@ theme:
   sizes-sidebar-time: 3.4rem
   background-image: url('/themes/muted_background.webp')
   font-family: "'Inter Variable', system-ui"
-  button-background-color-on: rgba(255, 255, 255, 0.85)
+  button-background-color-on: rgba(255, 255, 255, 0.35)
   button-background-color-off: rgba(115, 115, 115, 0.25)
   drawer-button-background-color: rgba(115, 115, 115, 0.25)
   button-name-color-on: rgb(48 51 52)
